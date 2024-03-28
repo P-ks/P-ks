@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, or any general software development questions .**
 
-- 📫 How to reach me **prashantkumarsingh0735@gmail.com**
+- 📫 How to reach me **https://linktr.ee/pks07?utm_source=linktree_admin_share**
 
 - ⚡ Fun fact **Great sense of dark humour 😆**
 
