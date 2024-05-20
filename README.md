@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A computer science engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-ks" alt="p-ks" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@pks0735" target="blank"><img src="https://img.shields.io/twitter/follow/@pks0735?logo=twitter&style=for-the-badge" alt="@pks0735" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
-- 📝 I regularly write articles on [X(Twitter)](X(Twitter))
+- 📝 I regularly write articles on [X(Twitter)]
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, or any general software development questions .**
 
@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-ks&" alt="p-ks" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-ks" alt="p-ks" /></a> </p>
 <!--
 **P-ks/P-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
