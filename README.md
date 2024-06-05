@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [X(twitter)](X(twitter))
 
-- 💬 Ask me about **JavaScript, React, Nextjs, Node.js any general software development questions .**
+- 💬 Ask me about **React, Nextjs, Node.js, JavaScript any general software development questions .**
 
 - 📫 How to reach me **prashantkumarsingh0735@gmail.com**
 
