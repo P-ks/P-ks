@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
-- 👨‍💻 All of my projects are available at [https://pks0735-portfolio.vercel.app/](https://pks0735-portfolio.vercel.app/)
+- 👨‍💻 You can find my projects at [https://pks0735-portfolio.vercel.app/](https://pks0735-portfolio.vercel.app/)
 
 - 📝 I regularly share my updates on [X(twitter)](X(twitter))
 
