@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pks0735-portfolio.vercel.app/](https://pks0735-portfolio.vercel.app/)
 
-- 📝 I regularly share updates on [X(twitter)](X(twitter))
+- 📝 I regularly share my updates on [X(twitter)](X(twitter))
 
 - 💬 Ask me about **React, Nextjs, Node.js, JavaScript any general software development questions .**
 
