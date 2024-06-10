@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learned **Full stack development and cloud-based services .**
+- 🌱 I’m currently learning **Full stack development and cloud-based services .**
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Nextjs, Node.js, JavaScript any general software development questions .**
 
-- 📫 How to reach me **prashantkumarsingh0735@gmail.com**
+- 📫 Reach out to me **prashantkumarsingh0735@gmail.com**
 
 - ⚡ Fun fact **Great sense of dark humour 😆**
 
