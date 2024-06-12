@@ -13,9 +13,9 @@
 
 - 👨‍💻 You can find my projects at [https://pks0735-portfolio.vercel.app/](https://pks0735-portfolio.vercel.app/)
 
-- 📝 I regularly share my updates on [X(twitter)](X(twitter))
+- 📝 I regularly share my updates on [X(Twitter)](X(twitter))
 
-- 💬 Ask me about **React, Nextjs, Node.js, JavaScript any general software development questions .**
+- 💬 Ask me about **React, Nextjs, Node.js, JavaScript, or any general software development questions .**
 
 - 📫 Reach out to me **prashantkumarsingh0735@gmail.com**
 
