@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@pks0735" target="blank"><img src="https://img.shields.io/twitter/follow/@pks0735?logo=twitter&style=for-the-badge" alt="@pks0735" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development** .
 
 - 🌱 I’m currently learning **Full stack development and cloud-based services  .**
 
-- 👯 I’m looking to collaborate on **Full stacks projects**
+- 👯 I’m looking to collaborate on **Full stacks projects** .
 
 - 👨‍💻 You can find my projects at [https://pks0735-portfolio.vercel.app/](https://pks0735-portfolio.vercel.app/)
 
