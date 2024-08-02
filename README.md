@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Full stack development and cloud-based services .**
+- 🌱 I’m currently learning **Full stack development and cloud-based  .**
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
