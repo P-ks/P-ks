@@ -15,7 +15,7 @@
 
 - 📝 I regularly share my updates on [X(Twitter)](https://x.com/pks0735)
 
-- 💬 Ask me about **React, Nextjs, Node.js, JavaScript, or any general software development questions .**
+- 💬 Ask me about **React, Nextjs, Node.js, JS, or any general software development questions .**
 
 - 📫 Reach out to me at **prashantkumarsingh0735@gmail.com**
 
